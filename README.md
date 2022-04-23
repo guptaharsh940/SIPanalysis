@@ -67,27 +67,27 @@ Some people might ask why I didn’t calculate other cases like some lucky dates
 I also distributed the data in various timeframes to get an idea of how does different SIPs perform in the Short-Term, Medium-Term and the Long-Term because only looking at one timeframe will give this Analysis not so detailed results so the following Time Frames which are presented by this Analysis are as follows:
 
 - **1 Year**
-    
+
     From the first trading day to the last trading day of each year I calculated the Returns of all 6 types of SIPs for all 20 Individual Years which gave me 120 XIRR Values. Then took the recent 20, 15, 10 & 5 Years of Data Averages to get the picture of how is the trend changing along with time.
     
 - **3 Years**
-    
+   
     I made sets of three years like ‘2002 - 2004’, ‘2003 - 2005’ and so on. This evaluated the returns within the first trading day of say 2002 to the last trading day of 2004 and cashing out on the last trading day of 2004. Which gave me 18 sets of years and for 6 types, resulting in 108 XIRR Values. Also calculated the recent 20, 15, 10 & 5 Years of Data Averages.
     
 - **5 Years**
-    
+
     In this, I made sets of five years this time like ‘2002 - 2006’, ‘2003 - 2007’ and so on. This evaluated the returns within the first trading day of say 2002 to the last trading day of 2004 and cashing out on the last trading day of 2006. Which gave me 16 sets of years and for 6 types, resulting in 96 XIRR Values. Also calculated the recent 20, 15 & 10 Years of Data Averages as the recent 5 Years is calculated in the last set of Years.
     
 - **7 Years**
-    
+
     Similarly made sets of seven years like ‘2002 - 2008’ and got 14 sets which gave 84 XIRR Values. Also calculated the recent 20, 15 & 10 Years of Data Averages.
     
 - **15 Years**
-    
+
     Similarly made sets of seven years like ‘2002 - 2016’ and got 6 sets which gave 36 XIRR Values. Also calculated the recent 20 Years of Data Average as 15 Year Average return can be taken from the last set of years.
     
 - **20 Years**
-    
+ 
     Here I calculated the entire 20 Years SIP returns and used the Cash Outflow date of the last trading day data which was recorded in the initial data i.e. 31st Jan 2022.
   
  
@@ -135,8 +135,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 **Dark Green -** Signifies the Best Return in that particular Timeframe
 
 ## 1 Year Timeframe
-
-
+![image](https://user-images.githubusercontent.com/30728750/164879366-79232db3-3e1d-42c2-8607-68d7199a5fec.png)
 
 - Here the **Normal SIP** has given the worst returns and the **Expiry SIP** has given the best returns.
 - **Day SIP** is slightly better than **Week SIP**.
@@ -144,7 +143,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - **Big Difference in Maximum Returns and the Minimum Returns** in the short-term average.
 
 ## 3 Years Timeframe
-
+![image](https://user-images.githubusercontent.com/30728750/164879372-5e6d2d6c-5fa0-4c3e-a518-8639d3eba4d2.png)
 
 - The Returns here become slightly more confusing but still, **Expiry SIP** has still performed the best and **Normal SIP** the worst.
 - Here both **Week SIP** & **Day SIP** has performed almost similarly.
@@ -152,8 +151,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - The difference between the **Max SIP** and the **Min SIP** has also been reduced by almost more than 3 times.
 
 ## 5 Years Timeframe
-
-
+![image](https://user-images.githubusercontent.com/30728750/164879375-f1fb3ae5-9491-4a89-8a03-9f4e29450fa9.png)
 
 - Not Very Different from the previous two datasets, **Expiry SIP** is still the best and **Normal SIP** the worst.
 - **Week SIP** & **Day SIP** performed almost similarly.
@@ -161,7 +159,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - The difference between the **Max SIP** and the **Min SIP** has also been reduced by almost 2 times.
 
 ## 7 Years Timeframe
-
+![image](https://user-images.githubusercontent.com/30728750/164879379-619eebeb-4489-4d57-a65c-39abbc803038.png)
 
 - Again **Expiry SIP** is still the best and **Normal SIP** the worst.
 - **Week SIP** & **Day SIP** performed almost similarly.
@@ -169,15 +167,14 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - The difference in the **Max SIP** and the **Min SIP** has also been slightly reduced.
 
 ## 15 Years Timeframe
-
+![image](https://user-images.githubusercontent.com/30728750/164879383-63261c34-8141-49af-a23c-1be2f5af1208.png)
 
 - Here though **Normal SIP** has still performed the worst that too by a very little difference but the **Expiry SIP**, **Week SIP** & **Day SIP** all have performed mostly similarly.
 - The Range between the best of four and the worst is now reduced to 0.05% for the last 20 Year's Average.
 - The difference in the **Max SIP** and the **Min SIP** has also been reduced to less than 1%.
 
 ## 20 Years Timeframe
-
-
+![image](https://user-images.githubusercontent.com/30728750/164879386-93cba105-01ac-4371-8c99-a0c79ed3fc20.png)
 
 - Here the constant is that the **Normal SIP** has still given the worst return.
 - But surprisingly the winner here is **Day SIP** & **Week SIP**.
