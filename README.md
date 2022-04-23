@@ -174,7 +174,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - The difference in the **Max SIP** and the **Min SIP** has also been reduced to less than 1%.
 
 ## 20 Years Timeframe
-![image](https://user-images.githubusercontent.com/30728750/164890284-02adbb6d-6841-4a94-b0b7-cb716f48c8c1.png)
+![image](https://user-images.githubusercontent.com/30728750/164890311-8dbc35ba-d773-41f7-95fd-4cbb85b03091.png)
 
 - Here the constant is that the **Normal SIP** has still given the worst return.
 - But surprisingly the winner here is **Day SIP** & **Week SIP**.
