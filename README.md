@@ -135,7 +135,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 **Dark Green -** Signifies the Best Return in that particular Timeframe
 
 ## 1 Year Timeframe
-![image](https://user-images.githubusercontent.com/30728750/164879366-79232db3-3e1d-42c2-8607-68d7199a5fec.png)
+![image](https://user-images.githubusercontent.com/30728750/164890232-4115552c-cd02-409f-a39b-94f3bc00a0ff.png)
 
 - Here the **Normal SIP** has given the worst returns and the **Expiry SIP** has given the best returns.
 - **Day SIP** is slightly better than **Week SIP**.
@@ -143,7 +143,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - **Big Difference in Maximum Returns and the Minimum Returns** in the short-term average.
 
 ## 3 Years Timeframe
-![image](https://user-images.githubusercontent.com/30728750/164879372-5e6d2d6c-5fa0-4c3e-a518-8639d3eba4d2.png)
+![image](https://user-images.githubusercontent.com/30728750/164890246-fd9d2008-12be-4d8d-aff0-d191de144238.png)
 
 - The Returns here become slightly more confusing but still, **Expiry SIP** has still performed the best and **Normal SIP** the worst.
 - Here both **Week SIP** & **Day SIP** has performed almost similarly.
@@ -151,7 +151,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - The difference between the **Max SIP** and the **Min SIP** has also been reduced by almost more than 3 times.
 
 ## 5 Years Timeframe
-![image](https://user-images.githubusercontent.com/30728750/164879375-f1fb3ae5-9491-4a89-8a03-9f4e29450fa9.png)
+![image](https://user-images.githubusercontent.com/30728750/164890264-7303e78c-70da-40af-a6ad-aa1b160bd6d7.png)
 
 - Not Very Different from the previous two datasets, **Expiry SIP** is still the best and **Normal SIP** the worst.
 - **Week SIP** & **Day SIP** performed almost similarly.
@@ -159,7 +159,7 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - The difference between the **Max SIP** and the **Min SIP** has also been reduced by almost 2 times.
 
 ## 7 Years Timeframe
-![image](https://user-images.githubusercontent.com/30728750/164879379-619eebeb-4489-4d57-a65c-39abbc803038.png)
+![image](https://user-images.githubusercontent.com/30728750/164890271-ab3bdedb-ad36-4123-b921-5563de201014.png)
 
 - Again **Expiry SIP** is still the best and **Normal SIP** the worst.
 - **Week SIP** & **Day SIP** performed almost similarly.
@@ -167,14 +167,14 @@ Min SIP & Max SIP Return Values have been ruled out as they are completely unach
 - The difference in the **Max SIP** and the **Min SIP** has also been slightly reduced.
 
 ## 15 Years Timeframe
-![image](https://user-images.githubusercontent.com/30728750/164879383-63261c34-8141-49af-a23c-1be2f5af1208.png)
+![image](https://user-images.githubusercontent.com/30728750/164890275-e657f7be-26aa-4244-8403-cf5890693349.png)
 
 - Here though **Normal SIP** has still performed the worst that too by a very little difference but the **Expiry SIP**, **Week SIP** & **Day SIP** all have performed mostly similarly.
 - The Range between the best of four and the worst is now reduced to 0.05% for the last 20 Year's Average.
 - The difference in the **Max SIP** and the **Min SIP** has also been reduced to less than 1%.
 
 ## 20 Years Timeframe
-![image](https://user-images.githubusercontent.com/30728750/164879386-93cba105-01ac-4371-8c99-a0c79ed3fc20.png)
+![image](https://user-images.githubusercontent.com/30728750/164890284-02adbb6d-6841-4a94-b0b7-cb716f48c8c1.png)
 
 - Here the constant is that the **Normal SIP** has still given the worst return.
 - But surprisingly the winner here is **Day SIP** & **Week SIP**.
